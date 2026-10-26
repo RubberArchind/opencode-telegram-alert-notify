@@ -1,7 +1,7 @@
 {
   "name": "opencode-telegram-alert-notify",
-  "version": "1.0.0",
-  "description": "OpenCode plugin that sends Telegram notifications for permission requests, errors, and task completions",
+  "version": "2.0.0",
+  "description": "OpenCode v2 plugin that sends Telegram notifications for permission requests, errors, and task completions",
   "keywords": ["opencode", "plugin", "telegram", "notification", "alert"],
   "homepage": "https://github.com/landen/opencode-telegram-alert-notify",
   "repository": {
